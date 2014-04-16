@@ -1,0 +1,76 @@
+ body {
+	background: #ededed;
+}
+
+#topbar { 
+    background: #ffffff; 
+} 
+
+button#toggleVisibility { 
+    background:none; 
+    border: none; 
+    outline: none; 
+    position: absolute; 
+    top: .6em; right: 0; 
+    padding: 0; 
+    color: #bbbbbb; 
+}
+
+ /*#blackbaudlogo {*/
+     /*display: block;*/
+     /*margin-top: 0.5em;*/
+     /*margin-left: auto;*/
+     /*margin-right: auto*/
+ /*}*/
+
+
+ /*.download-button{*/
+     /*display:block;*/
+     /*margin:0 auto;*/
+ /*}*/
+ /* github ribbon link style */
+ /*#forkmeongithub {*/
+     /*position: absolute;*/
+     /*top: 0;*/
+     /*right: 0;*/
+     /*border: 0;*/
+     /*width: 149px;*/
+     /*height: 149px;*/
+     /*z-index:10;*/
+ /*}*/
+
+ /* Blog cover */
+ /*.blog-cover{*/
+     /*max-width:100%;*/
+     /*margin-top:0;*/
+     /*position:relative;*/
+     /*min-height:250px;*/
+     /*overflow:hidden;*/
+     /*background-color: #4C9220;*/
+ /*}*/
+
+ /*h3 {*/
+     /*color:white;*/
+ /*}*/
+
+ /* current year remove new line */
+ #currentYear {
+     display:inline-block;
+ }
+
+ .center-content {
+     text-align:center;
+ }
+
+ /* css for <footer> */
+ footer {
+     position:absolute;
+     bottom:0;
+     width: 100%;
+     float:left;
+     padding: 1%;
+     background-color: #ffffff;
+     margin-top: 2em;
+ }
+ footer .footer-left { width: 45%; float:left; text-align:left; }
+ footer .footer-right { width: 45%; float:right; text-align:right; }
