@@ -1,4 +1,5 @@
 name: QA-101
 markdown: redcarpet
 pygments: true
-baseurl: /qa_101_jekyll
+baseurl:
+permalink: qa_101_jekyll
