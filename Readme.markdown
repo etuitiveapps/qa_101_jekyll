@@ -5,4 +5,3 @@ Qa-101 Redesign
 
 ![blackbaud logo] (img/blackbaud-logo-fit.png)
 
-### Demo save
