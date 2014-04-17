@@ -1,4 +1,4 @@
 name: QA-101
 markdown: redcarpet
 pygments: true
-baseurl:
+week_one_url: qa_101_jekyll/week_two.html
