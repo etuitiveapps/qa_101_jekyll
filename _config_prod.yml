@@ -1,5 +1,0 @@
-name: QA-101
-markdown: redcarpet
-pygments: true
-baseurl: /qa_101_jekyll
-week_one_url: qa_101_jekyll/week_one.html
