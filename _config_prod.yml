@@ -1,4 +1,4 @@
 name: QA-101
 markdown: redcarpet
 pygments: true
-baseurl:  blackbaud-napoleonkernessant.github.io
+baseurl:  http://blackbaud-napoleonkernessant.github.io/qa_101_jekyll
