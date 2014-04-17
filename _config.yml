@@ -2,4 +2,4 @@ name: QA-101
 markdown: redcarpet
 pygments: true
 baseurl:
-permalink: qa_101_jekyll
+permalink: /qa_101_jekyll
