@@ -1,5 +1,6 @@
 require 'spec_helper'
 require 'watir-webdriver'
+require 'navigation_spec.rb'
 
 describe 'Test Qa-101 Navigation from localhost' do
   before(:each) do
@@ -11,28 +12,16 @@ describe 'Test Qa-101 Navigation from localhost' do
   after(:each) do
     @browser.close
   end
-
-  it 'is able to navigate to the syllabus page' do
-    @browser.link(:id, 'syllabus_link').click
+  # The intent of this test was not clear.
+  # We had to refactor code to improve testing
+  it 'click on each link in the menu bar' do
+    expect(navigation_spec(@browser)).to eql(true)
   end
 
-  it 'is able to navigate to the week 1 page' do
-    @browser.link(:id, 'week_one_link').click
+  it 'click on each link in the menu bar' do
+    array_link_ids = %w(syllabus_link week_one_link week_two_link week_three_link index_link)
+
+    expect(click_each_menu_link(@browser, array_link_ids)).to eql(true)
   end
 
-  it 'is able to navigate to the week 2 page' do
-    @browser.link(:id, 'week_two_link').click
-  end
-
-  it 'is able to navigate to the week 3 page' do
-    @browser.link(:id, 'week_three_link').click
-  end
-
-  it 'is able to navigate to the week 4 page' do
-    @browser.link(:id, 'week_four_link').click
-  end
-
-  it 'is able to navigate to the index page' do
-    @browser.link(:id, 'index_link').click
-  end
 end
