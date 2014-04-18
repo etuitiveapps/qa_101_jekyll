@@ -4,3 +4,6 @@ title: Week 4 | Qa-101
 ---
 
         <p>Week 4</p>
+{% for post in site.categories.weekfour %}
+    {{ post.content }}
+{% endfor %}
