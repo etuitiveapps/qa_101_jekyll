@@ -31,4 +31,8 @@ describe 'Test Qa-101 Navigation from localhost' do
   it 'is able to navigate to the week 4 page' do
     @browser.link(:id, 'week_four_link').click
   end
+
+  it 'is able to navigate to the index page' do
+    @browser.link(:id, 'index_link').click
+  end
 end
