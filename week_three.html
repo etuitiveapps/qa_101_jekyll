@@ -2,8 +2,9 @@
 layout: qa101
 title: Week 3 | Qa-101
 ---
-
-        <p>Week 3</p>
+<p>Week 3</p>
+{% include drop_down_day_list.html %}
+<br>
 {% for post in site.categories.weekthree %}
     {{ post.content }}
 {% endfor %}
