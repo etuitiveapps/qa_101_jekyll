@@ -4,3 +4,18 @@ title: Week 1 | Qa-101
 ---
 
         <p>Week 1</p>
+
+
+<div id="week_one">
+    {{ site.posts.wee1day1.title }}
+</div>
+
+
+<div id="home">
+    <h1>Blog Posts</h1>
+    <ul class="posts">
+        {% for post in site.posts %}
+        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+    </ul>
+</div>
