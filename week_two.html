@@ -6,6 +6,9 @@ title: Week 2 | Qa-101
 {% include drop_down_day_list.html %}
 <br>
 {% for post in site.categories.weektwo %}
-    {{ post.content }}
+    {% assign div_index = forloop.index0 %}
+    <div id="day{{div_index}}">
+        {{ post.content }}
+    </div>
 {% endfor %}
 
