@@ -6,10 +6,12 @@ $(document).ready(function(){
     $("#currentYear").text( currentYear );
 });
 
-// toggle visibility to show only the day the
 $(document).ready(function(){
     hideAllDaysContent();
     $("#day"+0).show();
+});
+
+$(document).ready(function(){
     $( "#dayDropdown" ).change(function() {
         var dropdownValue = $( "#dayDropdown" ).val();
         hideAllDaysContent();
@@ -17,6 +19,7 @@ $(document).ready(function(){
     });
 });
 
+// Hide all of the divs
 function hideAllDaysContent()
 {
     var dayDropdownSize, index, currentId;
