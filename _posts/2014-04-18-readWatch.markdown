@@ -6,7 +6,8 @@ categories: readwatch
 ---
 
 ### Recommended Video series
-1. [Leadership: A Master Class - Authentic Leadership with Bill George](http://techbus.safaribooksonline.com/video/leadership/9781934441435)
+1. [The Foundation of Your Success by Dan Lier](http://techbus.safaribooksonline.com/00000spm2ytp07001)
++ [Leadership: A Master Class - Authentic Leadership with Bill George](http://techbus.safaribooksonline.com/video/leadership/9781934441435)
 + [Scrum Fundamentals LiveLessons](http://techbus.safaribooksonline.com/video/software-engineering-and-development/agile-development/9780133749076)
 + [Unix Fundamentals 101](http://techbus.safaribooksonline.com/video/operating-systems-and-server-administration/unix/9781449372514)
 + [Creating Content with Markdown: Learn by Video](http://techbus.safaribooksonline.com/video/web-design-and-development/9780133837629)
