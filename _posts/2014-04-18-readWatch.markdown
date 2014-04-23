@@ -21,7 +21,6 @@ categories: readwatch
 
 ### Recommended reading material
 1. [Essential Scrum: A Practical Guide to the Most Popular Agile Process By: Kenneth S. Rubin] (http://techbus.safaribooksonline.com/9780321700407)
-
 * [Instant RubyMine Assimilation By: Dave Jones](http://techbus.safaribooksonline.com/book/web-development/ruby/9781849698764)
 * [Eloquent Ruby by: Russ Olsen](http://techbus.safaribooksonline.com/book/web-development/ruby/9780321700308)
 * [The Ruby Way: Solutions and Techniques in Ruby Programming, Third Edition By: Hal Fulton; Russ Olsen](http://techbus.safaribooksonline.com/book/web-development/ruby/9780132480352)
