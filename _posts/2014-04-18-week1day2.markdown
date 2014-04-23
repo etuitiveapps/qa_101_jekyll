@@ -5,4 +5,13 @@ date:   2014-04-18 14:52:18
 categories: weekone
 ---
 
-# Week 1 day 2 text
+At the end of the second day you should have a virtual machine installed. You should also have a good idea how to run unix commands in the terminal.
+
++ [VirtualBox and Windows 7 x64 Install](https://www.youtube.com/watch?v=LGUfa2HIx0E)
++ [Install Ubuntu 13.04 on Virtualbox](https://www.youtube.com/watch?v=0WiiswmOH1Q)
++ [Unix Fundamentals 101](http://techbus.safaribooksonline.com/video/operating-systems-and-server-administration/unix/9781449372514)
+
+
+If you need additional reading material, you can check out the following manual.
+
+[Learning Unix for OS X By: Dave Taylor](http://techbus.safaribooksonline.com/book/operating-systems/9781449332303)
