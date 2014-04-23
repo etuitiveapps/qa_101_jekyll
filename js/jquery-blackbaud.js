@@ -19,7 +19,7 @@ $(document).ready(function(){
     });
 });
 
-// Hide all of the divs
+// Hide all of the divs with content for each day.
 function hideAllDaysContent()
 {
     var dayDropdownSize, index, currentId;
