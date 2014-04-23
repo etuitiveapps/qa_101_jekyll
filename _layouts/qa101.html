@@ -2,9 +2,15 @@
     {% include head.html %}
     <body>
         <div class="site">
-            {% include navigation.html %}
-            {{ content }}
-            {% include footer.html %}
+            <div id="header">
+                {% include navigation.html %}
+            </div>
+            <div id="content">
+                {{ content }}
+            </div>
+            <div id="footer">
+                {% include footer.html %}
+            </div>
         </div>
     <script type="text/javascript" src="js/jquery-blackbaud.js"></script>
     </body>
