@@ -5,9 +5,7 @@ date:   2014-04-18 14:52:17
 categories: weekone
 ---
 
-## How to install Ruby
-
-### On Windows
+## How to install Ruby On Windows
 1. [Installation instructions](https://forwardhq.com/support/installing-ruby-windows)
 + Make sure you download the latest 32 bit version: "[Ruby 2.0.0-p451](http://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p451-i386-mingw32.7z?direct)"
 + For the devkit you'll also need the 32 bit version: "[DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe](http://cdn.rubyinstaller.org/archives/devkits/DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe)"
@@ -22,14 +20,20 @@ If you had a previous version of ruby or you accidentally setup the 64 bit versi
 + Finally you'll need to delete the ruby folders in the "C:\" directory. The folder name should be example ."Ruby200".
 + When you are finished deleting the files you should now be ready to go to install ruby on windows.
 
-### On Mac
+## How to install Ruby On Mac
 1. let's install XCode, RVM, Ruby [Ruby](https://www.youtube.com/watch?v=THG3BKy6JEI)
 
-### On Linux
+## How to install Ruby On Linux
 1. First you'll need to install [RVM](https://www.youtube.com/watch?v=ScoT5dvZtCg)
 
-### Now that you have ruby installed. You are ready to move on to the next step.
+## Now that you have ruby installed. You are ready to move on to the next step.
 + [Unix Fundamentals 101](http://techbus.safaribooksonline.com/video/operating-systems-and-server-administration/unix/9781449372514)
 + [Creating Content with Markdown: Learn by Video](http://techbus.safaribooksonline.com/video/web-design-and-development/9780133837629)
+
+
+If you need additional reading material, you can check out the following manual.
+
+[Learning Unix for OS X By: Dave Taylor](http://techbus.safaribooksonline.com/book/operating-systems/9781449332303)
+[Instant Markdown By: Arturo Herrero ](http://techbus.safaribooksonline.com/book/web-design-and-development/9781783559145)
 
 
