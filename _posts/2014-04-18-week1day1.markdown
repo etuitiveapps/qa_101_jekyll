@@ -5,7 +5,7 @@ date:   2014-04-18 14:52:19
 categories: weekone
 ---
 
-At the end of the first day you should have an in depth understanding of the scrum process. You should also have a good idea what it takes to be an authentic leader in your field.
+### At the end of the first day you should have an in depth understanding of the scrum process. You should also have a good idea what it takes to be an authentic leader in your field.
 
 1. [The Foundation of Your Success by Dan Lier](http://techbus.safaribooksonline.com/00000spm2ytp07001)
 + [Leadership: A Master Class - Authentic Leadership with Bill George](http://techbus.safaribooksonline.com/video/leadership/9781934441435)

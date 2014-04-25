@@ -5,7 +5,7 @@ date:   2014-04-18 14:52:18
 categories: weekone
 ---
 
-At the end of the second day you should have a virtual machine installed. You should also have a good idea how to run unix commands in the terminal.
+### At the end of the second day you should have a virtual machine installed. You should also have a good idea how to run unix commands in the terminal.
 
 1. [VirtualBox and Windows 7 x64 Install](https://www.youtube.com/watch?v=LGUfa2HIx0E)
 + [Install Ubuntu 13.04 on Virtualbox](https://www.youtube.com/watch?v=0WiiswmOH1Q)

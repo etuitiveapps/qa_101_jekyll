@@ -5,4 +5,18 @@ date:   2014-04-18 14:52:16
 categories: weekone
 ---
 
-# Week 1 day 4 text
+### At the end of the fourth day, you should have a clear understanding of what Git and Github are and how to use them.
+
+1. We are going to start today with some hands on activity click [here](http://try.github.io/levels/1/challenges/1) to start.
++ [What is Version Control?](http://git-scm.com/video/what-is-version-control)
++ [What is Git?](http://git-scm.com/video/what-is-git)
++ [Get Going with Git](http://git-scm.com/video/get-going)
++ [Quick Wins with Git](http://git-scm.com/video/quick-wins)
++ [McCullough and Berglund on Mastering Git](http://techbus.safaribooksonline.com/video/software-engineering-and-development/version-control/9781449304737)
+
+### If you need additional reading material, you can check out the following manual.
+
+1. [Version Control with Git, 2nd Edition By: Jon Loeliger; Matthew McCullough] (http://techbus.safaribooksonline.com/book/databases/content-management-systems/9781449345037)
++ [Git Recipes: A Problem-Solution Approach By: Włodzimierz Gajda] (http://techbus.safaribooksonline.com/book/software-engineering-and-development/version-control/9781430261032)
++ [Git Pocket Guide By: Richard E. Silverman] (http://techbus.safaribooksonline.com/book/databases/content-management-systems/9781449327507)
+
