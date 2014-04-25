@@ -6,11 +6,18 @@ categories: weekone
 ---
 
 ## How to install Ruby On Windows
-1. We need to install the latest stable 32 bit version of Ruby and devkit from here.
-1. [Installation instructions](https://forwardhq.com/support/installing-ruby-windows)
-+ Make sure you download the latest 32 bit version: "[Ruby 2.0.0-p451](http://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p451-i386-mingw32.7z?direct)"
-+ For the devkit you'll also need the 32 bit version: "[DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe](http://cdn.rubyinstaller.org/archives/devkits/DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe)"
-+ You can find more information about the devkit [here](https://github.com/oneclick/rubyinstaller/wiki/Development-Kit)
+
+1. We need to download and install the latest 32 bit versions of [RubyInstaller and DevKit](http://rubyinstaller.org/downloads/]
++ Install RubyInstaller at C:\Ruby193 (must Driver C, other will cause some sophisticated problem in windows).
++ Extract DevKit.exe to C:\DevKit.
+
+> **How to:** Bind the DevKit to Ruby:
+>
+> - C:\git> cd \devkit,
+> - C:\DevKit> ruby dk.rb init
+> - C:\DevKit> ruby dk.rb install --force
+
+You can find more information about the devkit [here](https://github.com/oneclick/rubyinstaller/wiki/Development-Kit)
 
 #### Troubleshoot ruby on windows
 If you had a previous version of ruby or you accidentally setup the 64 bit version of ruby. You will need to uninstall ruby by doing the following steps.
@@ -34,6 +41,7 @@ If you had a previous version of ruby or you accidentally setup the 64 bit versi
 
 
 ## Good Markdown links
+
 1. [Markdown online editor](https://stackedit.io)
 + [Daring Fireball](http://daringfireball.net/projects/markdown/syntax)
 + [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
