@@ -5,4 +5,21 @@ date:   2014-04-18 14:52:15
 categories: weekone
 ---
 
-# Week 1 day 5 text
+### Welcome to day 5. Your progress so far is remarkable. By the end of today you should.
+
+1. Finish all of the relevant material from the first 4 days.
++ After you finish with the first four days you are ready to install Rubymine.
+
+### Setting up Rubymine on Windows
+
+1. [Install Rubymine on Ubuntu](http://www.bonusbits.com/main/HowTo:Install_Rubymine_on_Ubuntu)
++ [install rubymine on windows](http://www.jetbrains.com/ruby/)
+
+### Good Rubymine links
+
++ [Rubymine tutorials](http://confluence.jetbrains.com/display/RUBYDEV/Tutorials)
++ [RubyMine Default Keymap](https://www.jetbrains.com/ruby/docs/RubyMine_ReferenceCard.pdf)
+
+### Recommended reading materials
+
++ [Instant RubyMine Assimilation By: Dave Jones](http://techbus.safaribooksonline.com/book/web-development/ruby/9781849698764)
