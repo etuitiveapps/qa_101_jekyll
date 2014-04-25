@@ -5,4 +5,31 @@ date:   2014-04-18 14:52:17
 categories: weekone
 ---
 
-# Week 1 day 3 text
+## How to install Ruby
+
+### On Windows
+1. [Installation instructions](https://forwardhq.com/support/installing-ruby-windows)
++ Make sure you download the latest 32 bit version: "[Ruby 2.0.0-p451](http://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p451-i386-mingw32.7z?direct)"
++ For the devkit you'll also need the 32 bit version: "[DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe](http://cdn.rubyinstaller.org/archives/devkits/DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe)"
++ You can find more information about the devkit [here](https://github.com/oneclick/rubyinstaller/wiki/Development-Kit)
+
+#### Troubleshoot ruby on windows
+If you had a previous version of ruby or you accidentally setup the 64 bit version of ruby. You will need to uninstall ruby by doing the following steps.
+
+1. On the bottom left corner of the screen, click on start.
++ In the "search programs and files" box type the following words: "Programs and Features".
++ The Programs and Features window will appear. You should now be able to uninstall your current version of ruby.
++ Finally you'll need to delete the ruby folders in the "C:\" directory. The folder name should be example ."Ruby200".
++ When you are finished deleting the files you should now be ready to go to install ruby on windows.
+
+### On Mac
+1. let's install XCode, RVM, Ruby [Ruby](https://www.youtube.com/watch?v=THG3BKy6JEI)
+
+### On Linux
+1. First you'll need to install [RVM](https://www.youtube.com/watch?v=ScoT5dvZtCg)
+
+### Now that you have ruby installed. You are ready to move on to the next step.
++ [Unix Fundamentals 101](http://techbus.safaribooksonline.com/video/operating-systems-and-server-administration/unix/9781449372514)
++ [Creating Content with Markdown: Learn by Video](http://techbus.safaribooksonline.com/video/web-design-and-development/9780133837629)
+
+
