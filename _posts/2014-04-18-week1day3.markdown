@@ -35,6 +35,19 @@ If you had a previous version of ruby or you accidentally setup the 64 bit versi
 ## How to install Ruby On Linux
 1. First you'll need to install [RVM](https://www.youtube.com/watch?v=ScoT5dvZtCg)
 
+## Resolve Virtualbox Display issues
+1. Bring up the terminal
++ type the following command: "sudo apt-get install vir"
++ push the space bar key twice in order to bring up a list of available options
++ you'll need to install the following packages
+    a. virtualbox-dkms
+    + virtualbox-guest-additions
+    + virtualbox-guest-dkms
+    + virtualbox-guest-x11
++ your final command should look like this: "sudo apt-get install virtualbox-dkms  virtualbox-guest-additions virtualbox-guest-dkms virtualbox-guest-x11"
++ After the packages are finished installing you'll have to restart ubuntu.
++ when the screen comes back up you should get a full screen if you push the "right ctrl + F" (right control key on the keyboard + F key)
+
 ## Now that you have ruby installed. You are ready to move on to the next step.
 
 + [Unix Fundamentals 101](http://techbus.safaribooksonline.com/video/operating-systems-and-server-administration/unix/9781449372514)
