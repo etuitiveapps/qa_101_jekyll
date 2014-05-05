@@ -7,7 +7,7 @@ categories: weekone
 
 ## How to install Ruby On Windows
 
-1. We need to download and install the latest 32 bit versions of [RubyInstaller and DevKit](http://rubyinstaller.org/downloads/]
+1. We need to download and install the latest 32 bit versions of [RubyInstaller and DevKit](http://rubyinstaller.org/downloads/)
 + Install RubyInstaller at C:\Rubyxxx (must be the "C:\" drive, other drives will cause some sophisticated problems in windows).
 + Also note that xxx is the latest 32 bit version of Ruby ( Ruby 193 would be C:\Ruby193, Ruby 2.0.0 would be C:\Ruby200, etc)
 + Extract DevKit.exe to C:\DevKit.
