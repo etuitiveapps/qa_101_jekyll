@@ -10,13 +10,12 @@ categories: weekone
 1. Finish all of the relevant material from the first 4 days.
 + After you finish with the first four days you are ready to install Rubymine.
 
-### Install Java on Linux Before Rubymine
+> **How to:** Install Java on Linux from the terminal
+>
+>- sudo add-apt-repository ppa:webupd8team/java
+>- sudo apt-get update
+>- sudo apt-get install oracle-jdk7-installer
 
-Run the following commands from the linux Terminal
-
-   + $ sudo add-apt-repository ppa:webupd8team/java
-   + $ sudo apt-get update
-   + $ sudo apt-get install oracle-jdk7-installer
 
 ### Install Java on Windows Before Rubymine
 
