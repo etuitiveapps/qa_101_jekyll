@@ -5,4 +5,23 @@ date:   2014-04-18 14:52:13
 categories: weektwo
 ---
 
-# Week 2 day 2 text
+### At the end of Week 2 day 2, you should be finishing up your introduction to Ruby
+
+1. [Learning Ruby](http://techbus.safaribooksonline.com/video/programming/ruby/9781771370806)
++ We need to cover the first 7 sections
+	+ Classes And Objects
+	+ Inheritance
+	+ Modules
+	+ Exception Handling
+	+ Input And Output
+	+ Debugging Ruby
+	+ GUI Programming In Ruby
+	+ Wrap-Up
+
+When you are finished watching the videos. You should be able to finish the remaining sections in the Ruby Koans that were covered in the videos. You may refer to the videos as many times as you need until you gain a mastery of the subject. You may also choose to consult the manuals below if something is unclear.
+
+
+### If you need additional reading material, you can check out the following manual.
+1. [Eloquent Ruby by: Russ Olsen](http://techbus.safaribooksonline.com/book/web-development/ruby/9780321700308)
++ [The Ruby Way: Solutions and Techniques in Ruby Programming, Third Edition By: Hal Fulton; Russ Olsen](http://techbus.safaribooksonline.com/book/web-development/ruby/9780132480352)
+
