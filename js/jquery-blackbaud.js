@@ -8,7 +8,8 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     hideAllDaysContent();
-    $("#day"+0).show();
+    var dropdownValue = $( "#dayDropdown" ).val();
+    $("#day"+dropdownValue).show();
 });
 
 $(document).ready(function(){
