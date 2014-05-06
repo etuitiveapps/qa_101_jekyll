@@ -23,6 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="2014-04-18-week1day3.markdown" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2014-04-18-week1day3.markdown">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.18490566" vertical-offset="496" max-vertical-offset="1440">
+              <caret line="33" column="67" selection-start-line="33" selection-start-column="67" selection-end-line="33" selection-end-column="67" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="2014-04-18-week2day1.markdown" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2014-04-18-week2day1.markdown">
           <provider selected="true" editor-type-id="text-editor">
@@ -36,10 +49,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2014-04-18-week2day2.markdown" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="2014-04-18-week2day2.markdown" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2014-04-18-week2day2.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4754717" vertical-offset="0" max-vertical-offset="594">
+            <state vertical-scroll-proportion="-8.689655" vertical-offset="0" max-vertical-offset="594">
               <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
               <folding />
             </state>
@@ -119,10 +132,10 @@
         <option value="$PROJECT_DIR$/_posts/2014-04-18-week1day2.markdown" />
         <option value="$PROJECT_DIR$/_posts/2014-04-18-week1day4.markdown" />
         <option value="$PROJECT_DIR$/_posts/2014-04-18-week1day5.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2014-04-18-week1day3.markdown" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/_posts/2014-04-18-week2day1.markdown" />
         <option value="$PROJECT_DIR$/_posts/2014-04-18-week2day2.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2014-04-18-week1day3.markdown" />
       </list>
     </option>
   </component>
@@ -346,10 +359,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-4" width="1857" height="1021" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32662192" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32662192" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32997763" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -774,17 +787,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014-04-18-week1day3.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64400715" vertical-offset="378" max-vertical-offset="1404">
-          <caret line="41" column="47" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2014-04-18-week1day2.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.068966" vertical-offset="0" max-vertical-offset="396">
@@ -820,8 +822,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2014-04-18-week2day2.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4754717" vertical-offset="0" max-vertical-offset="594">
+        <state vertical-scroll-proportion="-8.689655" vertical-offset="0" max-vertical-offset="594">
           <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-04-18-week1day3.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18490566" vertical-offset="496" max-vertical-offset="1440">
+          <caret line="33" column="67" selection-start-line="33" selection-start-column="67" selection-end-line="33" selection-end-column="67" />
           <folding />
         </state>
       </provider>

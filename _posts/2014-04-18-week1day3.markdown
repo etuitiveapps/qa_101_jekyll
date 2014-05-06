@@ -30,10 +30,12 @@ If you had a previous version of ruby or you accidentally setup the 64 bit versi
 + When you are finished deleting the files you should now be ready to go to install ruby on windows.
 
 ## How to install Ruby On Mac
-1. let's install XCode, RVM, Ruby [Ruby](https://www.youtube.com/watch?v=THG3BKy6JEI)
+1. How to install RVM [RVM](https://rvm.io/)
++ Video tutorial for installing XCode, RVM, Ruby on a OSX Mavericks [Ruby](https://www.youtube.com/watch?v=THG3BKy6JEI)
 
 ## How to install Ruby On Linux
-1. First you'll need to install [RVM](https://www.youtube.com/watch?v=ScoT5dvZtCg)
+1. How to install RVM [RVM](https://rvm.io/)
++ Video tutorial for installing Ruby on Ubuntu 12.04 [RVM](https://www.youtube.com/watch?v=ScoT5dvZtCg)
 
 ## Resolve Virtualbox Display issues
 1. Bring up the terminal
