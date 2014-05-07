@@ -28,26 +28,26 @@ button#toggleVisibility {
      /*display:block;*/
      /*margin:0 auto;*/
  /*}*/
- /* github ribbon link style */
- /*#forkmeongithub {*/
-     /*position: absolute;*/
-     /*top: 0;*/
-     /*right: 0;*/
-     /*border: 0;*/
-     /*width: 149px;*/
-     /*height: 149px;*/
-     /*z-index:10;*/
- /*}*/
+
 
  /* Blog cover */
- /*.blog-cover{*/
-     /*max-width:100%;*/
-     /*margin-top:0;*/
-     /*position:relative;*/
-     /*min-height:250px;*/
-     /*overflow:hidden;*/
-     /*background-color: #4C9220;*/
- /*}*/
+ .blog-cover{
+     max-width:100%;
+     margin-top:0;
+     position:relative;
+     min-height:250px;
+     overflow:hidden;
+     background-color: #4C9220;
+ }
+.index-blog-cover-version{
+    color:#ededed;
+    text-align:center;
+}
+ .index-blog-cover-text {
+     color:#ededed;
+     text-align:center;
+ }
+
 
  /*h3 {*/
      /*color:white;*/
@@ -77,7 +77,7 @@ button#toggleVisibility {
 
 
  /* Format site to keep data in the correct place */
- * { padding: 0; margin: 0; }
+ /** { padding: 0; margin: 0; }*/
 
  html, body { height: 100%; width: 100%; }
 

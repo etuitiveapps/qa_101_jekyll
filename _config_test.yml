@@ -2,3 +2,4 @@ name: QA-101
 markdown: redcarpet
 pygments: true
 permalink: /
+version: 0.5 Beta
