@@ -1,4 +1,5 @@
 name: QA-101
+menuTitle: QA-Intern-101
 markdown: redcarpet
 pygments: true
 permalink: /qa_101_jekyll/
