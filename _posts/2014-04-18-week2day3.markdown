@@ -5,4 +5,17 @@ date:   2014-04-18 14:52:12
 categories: weektwo
 ---
 
-# Week 2 day 3 text
+### Week 2 day 3 is designed to give you your first hands on experience with Ruby.
++ Create a [Coderbyte.com](http://coderbyte.com/CodingArea/Challenges/) account.
++ Solve the following "easy Difficulty" [challenges](http://coderbyte.com/CodingArea/Challenges/) using Ruby.
+	1. First Reverse
+	+ First Factorial
+	+ Longest Word
+	+ Letter Changes
+	+ Simple Adding
+	+ Letter changes
+	+ Simple Adding
+	+ Letter Capitalize
+	+ Simple Symbols
+	+ Check Nums
+

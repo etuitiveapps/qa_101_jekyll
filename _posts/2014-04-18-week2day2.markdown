@@ -20,7 +20,10 @@ categories: weektwo
 
 When you are finished watching the videos. You should be able to finish the remaining sections in the Ruby Koans that were covered in the videos. You may refer to the videos as many times as you need until you gain a mastery of the subject. You may also choose to consult the manuals below if something is unclear.
 
-### List of Ruby Koan problems
+### Download Ruby Koans
++ [Ruby Koans](https://github.com/neo/ruby_koans)
+
+### List of All Ruby Koan problems
 1. about_array_assignment.rb
 + about_arrays.rb
 + about_asserts.rb
@@ -55,7 +58,7 @@ When you are finished watching the videos. You should be able to finish the rema
 + about_triangle_project_2.rb
 + about_true_and_false.rb
 
-### If you need additional reading material, you can check out the following manual.
+### If you need additional reading material, you can check out the following manuals.
 1. [Eloquent Ruby by: Russ Olsen](http://techbus.safaribooksonline.com/book/web-development/ruby/9780321700308)
 + [The Ruby Way: Solutions and Techniques in Ruby Programming, Third Edition By: Hal Fulton; Russ Olsen](http://techbus.safaribooksonline.com/book/web-development/ruby/9780132480352)
 
