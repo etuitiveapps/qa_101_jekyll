@@ -16,27 +16,6 @@ button#toggleVisibility {
     color: #bbbbbb; 
 }
 
-#b-logo {
-    display: block;
-    margin-top: 0.5em;
-    margin-left: auto;
-    margin-right: auto
-}
-
- /*#blackbaudlogo {*/
-     /*display: block;*/
-     /*margin-top: 0.5em;*/
-     /*margin-left: auto;*/
-     /*margin-right: auto*/
- /*}*/
-
-
- /*.download-button{*/
-     /*display:block;*/
-     /*margin:0 auto;*/
- /*}*/
-
-
  /* Blog cover */
  .blog-cover{
      max-width:100%;
@@ -55,10 +34,12 @@ button#toggleVisibility {
      text-align:center;
  }
 
-
- /*h3 {*/
-     /*color:white;*/
- /*}*/
+ #b-logo {
+     display: block;
+     margin-top: 0.5em;
+     margin-left: auto;
+     margin-right: auto
+ }
 
  /* current year remove new line */
  #currentYear {
