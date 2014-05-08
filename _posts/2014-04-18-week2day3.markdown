@@ -19,3 +19,34 @@ categories: weektwo
 	+ Simple Symbols
 	+ Check Nums
 
++ After solving those simple problems. You should have gained some more hands on experience with Ruby.
++ The next step will be to learn Cucumber and use BDD (behavior-driven development) in order to solve the next 10 problems.
+
+### Learning Cucumber
++ See your manager in order to get a copy of the manual: "The Cucumber Book by Matt Wynne and Aslak Hellesoy
++ We'll need to spend the rest of the day covering the following content in "The Cucumber Book"
+    1. Why Cucumber?
+    	+ Automated Acceptance Tests
+    	+ Behaviour-Driven Development
+    	+ Living Documentation
+    	+ How Cucumber Works
+    	+ What We Just Learned
+
+    + First Taste
+    	+ Understanding Our Goal
+    	+ Creating a Feature
+    	+ Creating Step Definitions
+    	+ Implementing Our First Step Definition
+    	+ Running Our Program
+    	+ Changing Formatters
+    	+ Adding an Assertion
+    	+ Making It Pass
+    	+ What We Just Learned
+
+    + Gherkin Basics
+    	+ Format and Syntax
+    	+ Feature
+    	+ Scenario
+    	+ Comments
+    	+ Spoken languages
+    	+ What We Just Learned

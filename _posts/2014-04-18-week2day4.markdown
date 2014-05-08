@@ -5,4 +5,35 @@ date:   2014-04-18 14:52:11
 categories: weektwo
 ---
 
-# Week 2 day 4 text
+We are going to spend the rest of the day Finishing up The following chapters in the cucumber book.
+
+1. Step Definitions: From the Outside
+	+ Steps and Step Definitions
+	+ Capturing Arguments
+	+ Multiple Captures
+	+ Flexibility
+	+ Returning Results
+	+ What We Just Learned
+
++ Expressive Scenarios
+	+ Background
+	+ Data Tables
+	+ Scenario Outline
+	+ Nesting Steps
+	+ Doc Strings
+	+ Staying Organized with Tags and Subfolders
+	+ What We Just Learned
+
++ When Cucumbers Go Bad
+	+ Feeling the Pain 86
+	+ Working Together 89
+	+ Caring for Your Tests 97
+	+ Stop the Line and Defect Prevention 105
+	+ What We Just Learned 106
+
++ Step Definitions: On the Inside
+	+ Sketching Out the Domain Model 112
+	+ Removing Duplication with Transforms 117
+	+ Adding Custom Helper Methods to the World 120
+	+ Organizing the Code 128
+	+ What We Just Learned 131
