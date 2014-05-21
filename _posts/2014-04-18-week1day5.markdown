@@ -24,7 +24,7 @@ categories: weekone
 [Nokogiri setup instructions](http://nokogiri.org/tutorials/installing_nokogiri.html)
 
 
-### Setting up Rubymine on Windows
+### Setting up Rubymine
 
 1. [Install Rubymine on Ubuntu](http://www.bonusbits.com/main/HowTo:Install_Rubymine_on_Ubuntu)
 + [install rubymine on windows](http://www.jetbrains.com/ruby/)
