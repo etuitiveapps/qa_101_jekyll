@@ -5,4 +5,4 @@ date:   2014-04-18 14:52:10
 categories: weektwo
 ---
 
-# Week 2 day 5 text
+Now that we have a solid foundation with Ruby and Cucumber.
