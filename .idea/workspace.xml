@@ -56,11 +56,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Readme.markdown" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Readme.markdown" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Readme.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.09262436" vertical-offset="0" max-vertical-offset="583">
+            <state vertical-scroll-proportion="-1.862069" vertical-offset="0" max-vertical-offset="216">
               <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2014-04-18-week1day5.markdown" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2014-04-18-week1day5.markdown">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5986278" vertical-offset="227" max-vertical-offset="882">
+              <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -118,16 +131,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="qa101.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/qa101.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="432">
-              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="blackbaud_style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/blackbaud_style.css">
           <provider selected="true" editor-type-id="text-editor">
@@ -182,7 +185,6 @@
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/_posts/2014-04-18-week2day1.markdown" />
         <option value="$PROJECT_DIR$/_posts/2014-04-18-week1day3.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2014-04-18-week1day5.markdown" />
         <option value="$PROJECT_DIR$/js/jquery-blackbaud.js" />
         <option value="$PROJECT_DIR$/_layouts/qa101.html" />
         <option value="$PROJECT_DIR$/_layouts/qa101-index.html" />
@@ -199,6 +201,7 @@
         <option value="$PROJECT_DIR$/_posts/2014-04-18-week2day5.markdown" />
         <option value="$PROJECT_DIR$/css/blackbaud_style.css" />
         <option value="$PROJECT_DIR$/Readme.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2014-04-18-week1day5.markdown" />
       </list>
     </option>
   </component>
@@ -757,16 +760,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014-04-18-week1day5.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11888112" vertical-offset="238" max-vertical-offset="810">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2014-04-18-week1day3.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1440">
@@ -926,8 +919,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Readme.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09262436" vertical-offset="0" max-vertical-offset="583">
+        <state vertical-scroll-proportion="-1.862069" vertical-offset="0" max-vertical-offset="216">
           <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-04-18-week1day5.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5986278" vertical-offset="227" max-vertical-offset="882">
+          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
           <folding />
         </state>
       </provider>

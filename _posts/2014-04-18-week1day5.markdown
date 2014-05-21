@@ -29,6 +29,10 @@ categories: weekone
 1. [Install Rubymine on Ubuntu](http://www.bonusbits.com/main/HowTo:Install_Rubymine_on_Ubuntu)
 + [install rubymine on windows](http://www.jetbrains.com/ruby/)
 
+### Internal use Only
+[Internal RubyMine Instructions](https://github.com/blackbaud-qa/qa-101/wiki/RubyMine)
+
+
 ### Good Rubymine links
 
 + [Rubymine tutorials](http://confluence.jetbrains.com/display/RUBYDEV/Tutorials)
