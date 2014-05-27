@@ -5,6 +5,8 @@ date:   2014-04-18 14:52:08
 categories: weekthree
 ---
 
+### At the end of Week 3 day 2, you should have a gentle introduction to JQuery
+
 JQuery Video tutorial
 
 + [jQuery Fundamentals LiveLessons by Phil Dutson](http://techbus.safaribooksonline.com/video/web-development/jquery/9780133361353)
