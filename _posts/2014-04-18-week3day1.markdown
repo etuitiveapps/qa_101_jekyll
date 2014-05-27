@@ -5,4 +5,17 @@ date:   2014-04-18 14:52:09
 categories: weekthree
 ---
 
-# Week 3 day 1 text
+JavaScript Video
+
++ [JavaScript Fundamentals](http://techbus.safaribooksonline.com/video/programming/javascript/42001ts)
+
+JavaScript Koans
+
++  [JavaScript-Koans](https://github.com/liammclennan/JavaScript-Koans)
+
+JavaScript Books
+
++  [Expert JavaScript By: Mark E. Daggett](http://techbus.safaribooksonline.com/book/programming/javascript/9781430260974)
++  +  [JavaScript Cookbook By: Shelley Powers](http://techbus.safaribooksonline.com/book/programming/javascript/9781449390211)
++ [JavaScript: The Good Parts By: Douglas Crockford](http://techbus.safaribooksonline.com/book/programming/javascript/9780596517748)
++  [Maintainable JavaScript By: Nicholas C. Zakas](http://techbus.safaribooksonline.com/book/programming/javascript/9781449328092)
