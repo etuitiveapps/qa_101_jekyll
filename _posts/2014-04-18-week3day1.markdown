@@ -5,6 +5,8 @@ date:   2014-04-18 14:52:09
 categories: weekthree
 ---
 
+### At the end of Week 3 day 1, you should have a gentle introduction to JavaScript
+
 JavaScript Video
 
 + [JavaScript Fundamentals](http://techbus.safaribooksonline.com/video/programming/javascript/42001ts)
