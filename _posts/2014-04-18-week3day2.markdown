@@ -5,16 +5,4 @@ date:   2014-04-18 14:52:08
 categories: weekthree
 ---
 
-### At the end of Week 3 day 2, you should have a gentle introduction to JQuery
 
-JQuery Video tutorial
-
-+ [jQuery Fundamentals LiveLessons by Phil Dutson](http://techbus.safaribooksonline.com/video/web-development/jquery/9780133361353)
-
-JQuery Books
-
-+ [jQuery UI 1.10: The User Interface Library for jQuery By: Alex Libby; Dan Wellman](http://techbus.safaribooksonline.com/book/web-development/jquery/9781782162209)
-+ [Beginning jQuery By: Jack Franklin](http://techbus.safaribooksonline.com/book/programming/javascript/9781430249320)
-+ [Extending jQuery By: Keith Wood](http://techbus.safaribooksonline.com/book/programming/java/9781617291036)
-+ [jQuery Cookbook By: Cody Lindley](http://techbus.safaribooksonline.com/book/web-development/jquery/9780596806941)
-+ [jQuery 2.0 Development Cookbook By: Leon Revill](http://techbus.safaribooksonline.com/book/web-development/jquery/9781783280896)
