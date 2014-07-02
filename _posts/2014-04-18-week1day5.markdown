@@ -17,7 +17,18 @@ categories: weekone
 >- sudo apt-get install oracle-jdk7-installer
 
 
-### Install Java on Windows Before Rubymine
+P.S.  Install Java on Windows Before Rubymine
+
+### If you get mySql Error on Linux
+> **Run:** The following command in the terminal
+>
+>- sudo apt-get install mysql-client libmysqlclient-dev
+
+### If you get mySql Error on Mac
+> **Run:** The following command in the terminal
+>
+>- brew install mysql
+>- sudo gem install mysql2
 
 
 ### Install Nokogiri
